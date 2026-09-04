@@ -1,6 +1,6 @@
 # Momenta Style Guide
 
-**Version:** 1.0 (2026-09-02) · **Applies to:** all `momenta-*` rules files · **Status:** draft for ratification (⚖️ marks decisions still open)
+**Version:** 1.0 (2026-09-02) · **Applies to:** every file under `core/` and `catalogs/` · **Status:** draft for ratification (⚖️ marks decisions still open)
 
 This guide exists so that every sweep and edit — by either of us, in any chat — produces text that reads as one voice. It was built from a data sweep of all eight v0.31 files (4,724 lines): where the corpus already agrees with itself, the guide records that practice; where it's split, the guide proposes a ruling and shows the evidence.
 
@@ -110,8 +110,8 @@ These are *kinds*, not names. Lowercase in prose; **bold on first definition** i
 
 - **Single source of truth.** A rule lives in exactly one place. The quickstart owns core rules and points to catalogs; catalogs own entries and never restate core rules. When a duplicate is found, delete it and add a pointer — don't sync it.
 - **Authoritative entries.** Where a term is both summarized and defined (e.g., Surprised in §3 and in Conditions), the definition entry is authoritative and the summary says so.
-- **Versioning.** The filename suffix is canonical (`v0_31` ≡ v0.31). All eight files bump together, after a significant batch of edits, never per edit. The version number appears only in the filename.
-- **File set:** quickstart (rules), archetypes, masteries, equipment, spellcasting, limit-breaks, pregen-characters, pregen-enemies. Program docs (`styleguide.md`, `roadmap.md`) live alongside and are not versioned.
+- **Versioning.** Filenames are unversioned. The current version is recorded in the header of the first chapter (`**Version:**`) and as a git tag on the repository. The repository is the single source of truth; Project knowledge is a synced mirror of it. Versions bump after a significant batch of edits, never per edit.
+- **File set:** `core/` holds the core rules as one file per chapter (`NN-slug.md`, reading order defined by `core/contents.md`); `catalogs/` holds the seven content catalogs; `docs/` holds the program documents (`styleguide.md`, `roadmap.md`, `decisions.md`). Each chapter file opens with an H1 title; sections are H2, entries H3.
 - **Edits are surgical.** Every edit is a targeted replacement of existing text, never a regeneration of a file. Verification follows every batch: grep the landed text, then the ripples.
 
 ## 6 · Voice

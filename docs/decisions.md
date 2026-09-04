@@ -28,6 +28,7 @@ Seeded 2026-09-03 from the v0.30 → v0.31 audit cycle (2026-08-29 → 09-02).
 ### D-04 · Versioning: bump all files together, after significant batches *(2026-08-29)*
 **Decision.** Filename suffix is canonical (`v0_31` ≡ v0.31). All rules files bump together; never per edit. Program docs are unversioned.
 **Why.** Per-edit bumps ran version numbers up too fast and desynced cross-references.
+**Superseded by D-46 (2026-09-05):** filenames are now unversioned; the version lives in the first chapter's header and in git tags.
 
 ### D-05 · No "Resources at a Glance" table in the core rules *(2026-09-01)*
 **Decision.** The resource/refresh-timing summary lives on the character sheet and in play aids, not in the rules.
@@ -197,6 +198,12 @@ Seeded 2026-09-03 from the v0.30 → v0.31 audit cycle (2026-08-29 → 09-02).
 ### D-45 · Style guide capitalization rulings *(2026-09-02)*
 **Decision.** Names are Title Case; kinds are lowercase; attributes ALL CAPS. hit location, challenge class, spell focus, interlude, downtime, wondrous item → lowercase in prose. ASCII `-1d` in source. Title Case callout labels. `[STATE]` prefix.
 **Why.** Data sweep: the corpus was already 97–100% consistent on both classes; the rulings resolve the six genuine splits toward each term's class.
+
+### D-46 · Core rules reorganized into a Prologue and five Moments, one file per chapter *(2026-09-05)*
+**Decision.** The core rules are split into 31 chapter files plus two appendices under `core/`, grouped as Prologue · Welcome, Moment 1 · The Basics, Moment 2 · Characters, Moment 3 · Narrative Play, Moment 4 · Combat, Moment 5 · Missions and Campaigns. Threads and Bonds are defined and grown in Moment 2, invoked in Moment 3 (narrative actions), with Invoke-in-combat living in Moment 4's Bonds in Combat. Conditions remain a mid-combat chapter, with every condition also getting a one-line glossary entry that links to it. Versioning moves to the first chapter's header and git tags; filenames are unversioned. GitHub is the source of truth and Project knowledge is a synced mirror.
+**Why.** The RULES → CHARACTER CREATION → RUNNING THE GAME spine was procedure-first and forced each concept to be introduced three times; narrative play had three homes. One file per chapter matches the Fate SRD model, works with every static-site tool, gives stable deep links, and concatenates into a linear PDF. Anatomy before procedure; narrative before combat.
+**Rejected.** Conditions as an appendix (kept as a chapter for teaching flow). One file per Moment (forces one huge page per Moment or custom tooling). One file per entry (only worthwhile if catalogs become data). "Arcs" as the part name (collides with mission arcs).
+**Method.** Two passes: Pass 1 moves text verbatim with a lossless check (every content line appears exactly once); Pass 2 applies the redundancy kill list and writes the glue chapters.
 
 ---
 

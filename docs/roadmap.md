@@ -1,6 +1,6 @@
 # Momenta Roadmap → v1.0
 
-**Current:** v0.31 (rules audit complete, 2026-09-02) · **Target:** v1.0 published as PDF + HTML, with a working Foundry VTT system
+**Current:** v0.31 — reorganized into Moments, Pass 1 complete (2026-09-05) · **Target:** v1.0 published as PDF + HTML, with a working Foundry VTT system
 **How to use:** this is a living checklist. Update it in real time as work lands. `☐` open · `☑` done · `◐` in progress · `⏸` deferred by decision. Keep entries short; rationale lives in the decisions log, not here.
 
 ---
@@ -62,13 +62,24 @@
 - ☐ Recompute all four sheets after any archetype or mastery change in §A–B
 - ☐ Consider a fifth pregen when a SOUL-centric archetype ships (the party currently has no PRE build)
 
+## M · Core rules reorganization (see decisions D-46)
+- ☑ Pass 1 — split the core rules into one file per chapter under `core/` (lossless, verified)
+- ☐ Pass 2 — redundancy kill list K1–K12 (see the reorg proposal); K7 becomes "Increasing the Odds" as the home of narrative invocation
+- ☐ Pass 2 — write the glue chapters: The Loop of Play, How to Use This Book, Running the Game
+- ☐ Pass 2 — Appendix B Glossary (one line + link per term, every condition included)
+- ☐ Pass 2 — general one-reactive-defense sentence in Maneuvers and Reactions (moved here from H)
+- ☐ Pass 2 — style-guide conformance sweep while every chapter is open (moved here from H)
+- ☐ Cross-reference pass: convert "see **X**" pointers to relative links with stable slugs
+
 ## H · Rules text hygiene
-- ☐ Style-guide conformance sweep once `styleguide.md` is ratified (Appendix B rulings applied corpus-wide)
-- ☐ General sentence in the reactions intro: an attack can be met by at most one reactive defense (currently stated only in Tandem Defense)
+- ⏸ Style-guide conformance sweep — moved to §M Pass 2
+- ⏸ One-reactive-defense sentence — moved to §M Pass 2
 - ☐ Soft: design note on Defeated/Lost entries — "removal requires rare and powerful means" (Phoenix Ember and Come Back to Me! now give the Momentum award a referent, so this is polish)
-- ☐ Decide whether the quickstart's copy of the weapon-tag table becomes a pointer to the equipment catalog (the M-21 miss showed why duplicates drift)
+- ⏸ Weapon-tag table duplication — resolved by Appendix A Tags in Pass 2 (K6)
 
 ## I · Play aids & publication
+- ☐ **A true Quickstart** — a 16–24 page teaching document distilled from the core rules, shipped with the pregens
+- ☐ Publishing tooling spike (Quarto / mdBook / Pandoc): one source → HTML SRD + linear PDF
 - ☐ Character sheet — with resource refresh timings printed on the resource boxes (the accepted home for the M-37 idea)
 - ☐ GM reference / screen (conditions, clear types, challenge-class shedding rules, hit locations, Momentum awards)
 - ☐ Combat flow one-pager for new players
@@ -77,8 +88,8 @@
 - ☐ Publication-pipeline decision: typeset true minus signs from ASCII source (see style guide §2)
 
 ## J · Foundry VTT
-- ☐ **Rules-delta changelog v0.30 → v0.31** for the Claude Code session (wound engine, consequence tables, Faltering/Unraveling luck saves, Grabbed, Hindered rework, hit-location effects, Mark→Broken, Disabling Equipment, Bonds in Combat, spell delivery tags, line of sight, Momentum reset timing, stance removal, Phoenix Ember, new masteries, Smite/Resolute patterns)
-- ☐ Port the delta; reach feature parity with v0.31
+- ⏸ Rules-delta changelog — not needed; the Claude Code side works from the repository's git history
+- ☐ Port to feature parity with v0.31 (handled on the Claude Code side)
 - ☐ Foundry playtest of a v0.4 mission
 
 ## K · Playtest watches (measure, don't change yet)
@@ -93,6 +104,6 @@
 ## L · Program documents
 - ☑ `styleguide.md` (drafted; ratify Appendix B)
 - ☑ `roadmap.md` (this file)
-- ☐ `changelog.md` — per-version change list; the v0.30→v0.31 entry doubles as the Foundry porting spec (§J)
-- ☐ `decisions.md` — design decision record: one entry per significant ruling with the rationale, so future chats don't relitigate
+- ⏸ `changelog.md` — decided against (D-44); git history covers it
+- ☑ `decisions.md` — seeded with 46 entries
 - ☐ Archive: rules audit report (2026-08-29) — removed from project files, kept in archive
