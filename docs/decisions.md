@@ -205,6 +205,11 @@ Seeded 2026-09-03 from the v0.30 → v0.31 audit cycle (2026-08-29 → 09-02).
 **Rejected.** Conditions as an appendix (kept as a chapter for teaching flow). One file per Moment (forces one huge page per Moment or custom tooling). One file per entry (only worthwhile if catalogs become data). "Arcs" as the part name (collides with mission arcs).
 **Method.** Two passes: Pass 1 moves text verbatim with a lossless check (every content line appears exactly once); Pass 2 applies the redundancy kill list and writes the glue chapters.
 
+### D-47 · mdBook site on GitHub Pages; review on the published site *(2026-09-05)*
+**Decision.** The core rules publish as an mdBook site, built by GitHub Actions on every push to `main` and served by GitHub Pages (later at `momenta-rpg.com`). One page per chapter, the Moments as sidebar parts, the catalogs as a Reference section, `core/contents.md` as the single source of chapter order (the build generates `SUMMARY.md` from it). While the project is private-in-practice, patches are committed to `main` first and reviewed on the live site; review feedback becomes follow-up commits.
+**Why.** Simplicity: GitHub Pages needs no account, no DNS move, and no build service beyond the repository itself. mdBook is a single dependency-free binary whose native shape — file per chapter, page per chapter, parts in the sidebar — is the Fate SRD model the book was reorganized into, and its `print.html` gives a linear PDF from the same source with full HTML fidelity (Pandoc-based tools drop the raw HTML in the rules tables).
+**Rejected.** Cloudflare Pages / Netlify (per-branch preview URLs are the better *review* surface, at the cost of another service; revisit if reviewing on `main` becomes a problem once the repo is public). Quarto (superior print typography; reserved for a final print edition). An offline HTML packet (a snapshot, which drifts).
+
 ---
 
 ## Entry template

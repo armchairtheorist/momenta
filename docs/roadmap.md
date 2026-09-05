@@ -79,7 +79,9 @@
 
 ## I · Play aids & publication
 - ☐ **A true Quickstart** — a 16–24 page teaching document distilled from the core rules, shipped with the pregens
-- ☐ Publishing tooling spike (Quarto / mdBook / Pandoc): one source → HTML SRD + linear PDF
+- ☑ Publishing tooling: mdBook site, built by GitHub Actions to GitHub Pages on every push to main (D-47)
+- ☐ Attach the custom domain `momenta-rpg.com` to GitHub Pages (DNS + Pages settings; then set `site-url = "/"` in `site/book.toml`)
+- ☐ Linear PDF as a build artifact (mdbook-pdf); until then, print `book/print.html`
 - ☐ Character sheet — with resource refresh timings printed on the resource boxes (the accepted home for the M-37 idea)
 - ☐ GM reference / screen (conditions, clear types, challenge-class shedding rules, hit locations, Momentum awards)
 - ☐ Combat flow one-pager for new players

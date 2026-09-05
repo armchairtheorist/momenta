@@ -1,0 +1,22 @@
+# mdBook configuration for the Momenta Core Rules site.
+# Do not run `mdbook build` here directly — run ./site/build.sh, which stages
+# core/, catalogs/, and this folder into .build/ and generates SUMMARY.md
+# from core/contents.md so that chapter order has a single source.
+
+[book]
+title = "Momenta Core Rules"
+authors = ["Momenta Design"]
+language = "en"
+src = "."
+
+[output.html]
+site-url = "/momenta/"
+additional-css = ["site/momenta.css"]
+git-repository-url = "https://github.com/armchairtheorist/momenta"
+edit-url-template = "https://github.com/armchairtheorist/momenta/edit/main/{path}"
+default-theme = "light"
+preferred-dark-theme = "coal"
+
+[output.html.search]
+enable = true
+limit-results = 20
