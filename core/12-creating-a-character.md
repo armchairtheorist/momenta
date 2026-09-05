@@ -52,7 +52,7 @@ For example, a character can have BODY 6, MIND 2, SOUL 3. But they will not be a
 
 ## Choose Masteries
 
-**Step 6** - The character has a number of mastery slots that can be filled with masteries (special abilities, boons, or features). See below for the full rules on masteries.
+**Step 6** - The character has a number of mastery slots that can be filled with masteries (special abilities, boons, or features). See **Masteries** for the full rules.
 
 > **Example:** Based on her Core values, she has the following number of mastery slots based on **mastery type** - 3 body mastery slots, 1 mind mastery slot, and 0 soul mastery slots. In addition, she has 1 wildcard mastery slot that can be used to slot masteries of any type. Total of 5 slots.
 >

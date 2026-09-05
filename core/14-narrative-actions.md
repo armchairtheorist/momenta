@@ -26,8 +26,10 @@ The players can choose to spend **Momentum** for a **Momentous Feat** to influen
 
 ## Increasing the Odds
 
-Players have three options to help increase the chances of success for their action rolls (none of these apply to luck rolls):
+Players have several ways to increase the chances of success for their action rolls (none of these apply to luck rolls):
 
+- **Invoke a Thread** - If the GM agrees that one of your Threads applies to the action, the roll gains a **+2d bonus**. Every action roll can apply at most one Thread.
+- **Invoke a Bond** - Before the roll, spend **1 Resolve** and explain how one of your Bonds applies: the roll gains **+2d**. You may invoke a Bond **for them** - boosting a roll made by your Bond target, whom you must be able to perceive - or **for yourself** - when the Bond drives your action: fighting alongside them, protecting them, avenging them, proving yourself against them, or defending a place or object you hold a Bond toward. A roll can benefit from at most one Bond invocation. If the explanation doesn't hold, the Bond doesn't fire and no Resolve is spent. In combat, Invoke also applies to attack and spellcasting rolls (see **Bonds in Combat**).
 - **Push Yourself** - The player can **spend 1 Resolve** to add a **+1d bonus** to the action roll. Note that the total contribution between Assists and Push Yourself is capped at +2d for any one roll.
 - **Assist** - Before rolling, an ally may describe how they are assisting the player and the assistant **spends 1 Resolve** to grant a **+1d bonus** to the action roll. An ally may only assist on a roll if they themself have a **relevant Thread** to the situation at hand, or at least a **Bond 2 relationship** with the roller. Each ally may contribute at most +1d, and the total contribution between Assists and Push Yourself is capped at +2d for any one roll. 
 - **Momentous Feats** - The player can spend 1 Momentum each to add up to 3 successes to a single action roll. The player can decide to apply this after the roll is made.
@@ -80,4 +82,4 @@ During narrative play, players can choose to spend **1 Momentum** to declare a f
 
 The GM can either ratify the player's declaration, or makes adjustments as required.
 
-> **Design note:** The reason this costs Momentum is because this is considered *authorship spend*. We want to encourage player creativity during narrative play, but we also want to enforce the fact that editing the world is not free.
+> **Design Note:** The reason this costs Momentum is because this is considered *authorship spend*. We want to encourage player creativity during narrative play, but we also want to enforce the fact that editing the world is not free.

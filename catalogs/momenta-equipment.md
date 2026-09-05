@@ -2,7 +2,7 @@
 
 **Version:** 0.31
 
-Momenta is a tactical, cinematic fantasy TTRPG built around modular archetypes and slottable masteries. This catalog contains the stat blocks for gear (weapons, armor, and spell foci). It is intended to be used with the `Momenta - Quick Start Guide` document, which contains the core rules of Momenta.
+Momenta is a tactical, cinematic fantasy TTRPG built around modular archetypes and slottable masteries. This catalog contains the stat blocks for gear (weapons, armor, and spell foci). It is intended to be used with the **Momenta Core Rules**.
 
 All of the catalog examples are a *sample of the design space*, and not to be considered an exhaustive list.
 
@@ -16,31 +16,7 @@ Gear includes **weapons**, **armor**, and **spell foci**.
 
 ### Weapons
 
-Weapons take up a **number of gear slots** depending on their **weight class**:
-
-- **Light**, **Medium** and **Heavy** weapons - Takes **1 gear slot** to equip.
-- **Superheavy** weapons - Takes **2 gear slots** to equip.
-
-Weapons are also assigned various weapon tags that describe the traits of the weapon:
-
-| Tag          | Description                                                  |
-| ------------ | ------------------------------------------------------------ |
-| Slashing     | This weapon does slashing (i.e., cutting) physical damage.   |
-| Piercing     | This weapon does piercing (i.e., pointed, impaling) physical damage. |
-| Crushing     | This weapon does crushing (i.e., bludgeoning, blunt) physical damage. |
-| Melee N      | This weapon can be used to do melee attacks, and has a reach of N squares. |
-| Range N      | This weapon can be used to do ranged attacks, and has a maximum range of N squares. |
-| Deflect      | This weapon can be used to perform the **Deflect** reaction. You can only deflect attacks if the **weight class** of the deflecting weapon is equal or greater than the attacking weapon's weight class. |
-| Shield       | This weapon is a shield and can be used to perform the **Deflect** reaction. There is no weight class restriction on the attacking weapon. |
-| Reflexive    | This weapon can be used to make a **Forestall** reaction.    |
-| Penetrating  | This weapon **bypasses Guard** and hits Vitality directly.   |
-| Indefensible | This weapon cannot be mitigated by **reactive defenses**.    |
-| Imprecise    | This weapon **cannot target hit locations**. It can only target Mass. This means that an Imprecise ranged weapon cannot be used to attack a target that is behind cover (melee weapons are not affected by cover). |
-| Seeking      | This weapon is **not affected by cover**.                    |
-| Cumbersome   | Attacks with this weapon cost **3 Vigor** instead of 2. This includes reactive attacks like **Forestall**, **Intercept**, and **Counterattack**. |
-| Combo        | This weapon is part of a **combination weapon**, and it must be equipped with its other part(s). Together, the combination weapon costs **one fewer gear slot than the sum of its parts (minimum 1)**. |
-
-> **Design Note:** The **Deflect** and **Shield** tags mark weapons *capable* of deflecting. The **Deflect reaction** itself must be granted by an ability (e.g., Warrior Rank 1) — the tag alone does not grant it.
+Weapons occupy gear slots by **weight class** and carry **tags**; both are defined in the core rules (see **Equipment** and **Appendix A · Tags**).
 
 
 
@@ -478,7 +454,7 @@ There is no limit to the number of spell foci that a character can equip, as lon
 #### Basic Spell Focus
 
 ```
-[FOCUS] Basic Spell Focus
+[FOCUS] Basic spell focus
 
 Effect: none
 ```
@@ -489,7 +465,7 @@ Effect: none
 
 #### Exotic Spell Focus
 
-Exotic spell foci are found, crafted, rewarded, or otherwise acquired. They may grant specific bonuses (and sometimes penalties) beyond the Basic Spell Focus.
+Exotic spell foci are found, crafted, rewarded, or otherwise acquired. They may grant specific bonuses (and sometimes penalties) beyond the Basic spell focus.
 
 ```
 [FOCUS] Ignis Crown

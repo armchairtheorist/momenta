@@ -2,7 +2,7 @@
 
 **Version:** 0.31
 
-Momenta is a tactical, cinematic fantasy TTRPG built around modular archetypes and slottable masteries. This catalog contains the archetype stat blocks. It is intended to be used with the `Momenta - Quick Start Guide` document, which contains the core rules of Momenta.
+Momenta is a tactical, cinematic fantasy TTRPG built around modular archetypes and slottable masteries. This catalog contains the archetype stat blocks. It is intended to be used with the **Momenta Core Rules**.
 
 All of the catalog examples are a *sample of the design space*, and not to be considered an exhaustive list.
 
@@ -62,7 +62,7 @@ All of the catalog examples are a *sample of the design space*, and not to be co
 > - **Bonuses:** +1 Max Vitality, +1 Max Strain
 > - **Abilities**:
 >   - **Cultural Fluency** - Gain a **+1d bonus** for all action rolls that involve performance, influence, intimidation, or persuasion as long as it either involves Humans, Elves, or Half-Elves (GM adjudicates).
->   - **Adaptability** - During an Interlude, you may **retrain one equipped mastery** for another mastery that you qualify for.
+>   - **Adaptability** - During an interlude, you may **retrain one equipped mastery** for another mastery that you qualify for.
 
 
 

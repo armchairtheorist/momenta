@@ -2,7 +2,7 @@
 
 **Version:** 0.31
 
-Momenta is a tactical, cinematic fantasy TTRPG built around modular archetypes and slottable masteries. This catalog contains ready-to-run enemy stat blocks and overlay templates for the **Novice tier** of play. It is intended to be used with the `Momenta - Quick Start Guide` document, which contains the core rules of Momenta — including the encounter asymmetry rules that govern everything below.
+Momenta is a tactical, cinematic fantasy TTRPG built around modular archetypes and slottable masteries. This catalog contains ready-to-run enemy stat blocks and overlay templates for the **Novice tier** of play. It is intended to be used with the **Momenta Core Rules** (see **Building Encounters** for the challenge-class rules that govern everything below).
 
 All of the catalog examples are a *sample of the design space*, and not to be considered an exhaustive list.
 
@@ -12,7 +12,7 @@ All of the catalog examples are a *sample of the design space*, and not to be co
 
 Enemies work differently than player characters in Momenta, with optimizations to speed up gameplay. They have a separate, streamlined **action economy**, and are also scaled across two dimensions - **Challenge Class** and **Tiers of Play**.
 
-> **Design note:** Authored stat blocks are sovereign; a baseline stat block may natively include Guard, defenses, or other features resembling class-menu abilities regardless of the menu's minimums — the minimum challenge class governs only what a **template** may add.
+> **Design Note:** Authored stat blocks are sovereign; a baseline stat block may natively include Guard, defenses, or other features resembling class-menu abilities regardless of the menu's minimums — the minimum challenge class governs only what a **template** may add.
 
 
 
@@ -104,7 +104,7 @@ Enemies may have tags that indicate the type of enemy they are. Certain player a
 
 Unlike player characters, not all enemies will have the standard Mass/Edge/Mark hit locations. Most Humanoid foes will, but some exotic monsters and creatures may not have an Edge, or a Mark, or may have multiples of each. Every creature will define in its stat block the valid hit locations for that particular creature, as well as what happens on a hit to that location (1+ success on a damage dealing attack), or a Wound to that location.
 
-Creatures with no Wound slots (usually Regular enemies) can ignore the Wound Effect hit location column, but it is still included in the stat block just in case the GM wants to apply a Challenge Class template to the enemy to give it additional Wound slots.
+Creatures with no Wound slots (usually Regular enemies) can ignore the Wound Effect hit location column, but it is still included in the stat block just in case the GM wants to apply a challenge class template to the enemy to give it additional Wound slots.
 
 By default, if there is no special Wound Effect listed, then the creature gains the **Impaired N** condition, where N = number of Wound slots now filled (including this Wound). If a Wound Effect is specified, then they suffer the listed effect instead, and does not get the Impaired condition. Enemies never roll on the Wound or Burden consequence tables; they use their listed effects, or the Impaired N default.
 

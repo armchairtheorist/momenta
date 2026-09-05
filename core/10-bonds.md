@@ -6,7 +6,7 @@ A **Bond** is a relationship that has become a part of who you are, written as a
 
 ## Holding Bonds
 
-- You can hold up to **SOUL + 3 Bonds** at a time.
+- You can hold up to your **Max Bonds** at a time (see **Characters at a Glance**).
 - Bonds represent relationships between the player character and another **character**, either a fellow PC, or a named NPC of
   consequence (for enemies, only **Champion** and **Nemesis**-class villains should qualify). With GM approval, a Bond may instead target an **institution**, **place**, or even a **treasured object** (e.g., a fallen kingdom, a father's sword).
 - Bonds are **one-directional**. Your Bond toward someone is yours alone, and may not be reciprocated. In the case when both sides of a relationship hold Bonds toward each other at a high enough intensity, they may unlock new abilities and benefits.

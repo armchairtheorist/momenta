@@ -25,4 +25,4 @@ Momenta organizes 18 ranks of play (CR3 to CR20) plus open-ended Paragon play (C
 | Veteran      | CR15 to CR20    | Renowned heroes. Multi-archetype mastery; legendary-tier challenges. | 6-7 dice            |
 | Paragon      | CR21+           | Mythic figures. Open-ended progression; the system's high-end stress test. | 7+ dice             |
 
-> **Design note:** The **typical attack pool** is design guidance targeted for each tier; it is not a specific rule or constraint for character builds.
+> **Design Note:** The **typical attack pool** is design guidance targeted for each tier; it is not a specific rule or constraint for character builds.

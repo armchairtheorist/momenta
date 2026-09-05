@@ -9,8 +9,8 @@ The mission-level rest, taken between missions, or voluntarily mid-mission if ne
 
 - Vitality is fully restored.
 - Strain is fully cleared.
-- All conditions are cleared, except narrative-anchored conditions (see above).
-- All Wounds and Burdens are healed, except narrative-anchored Wounds and Burdens (see above).
+- All conditions are cleared, except narrative-anchored conditions (see **Interludes**).
+- All Wounds and Burdens are healed, except narrative-anchored Wounds and Burdens (see **Interludes**).
 - Restore any disabled equipment, unless the disabling effect states otherwise.
 - Restock all consumable points.
 - Update their equipment loadout, as needed.

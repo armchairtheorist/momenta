@@ -209,7 +209,12 @@ Wracked (Bleeding) is a special kind of Wracked condition. Mechanically, it is t
 
 States are not conditions that can be applied and removed, but are instead derived from the character's present state. States may be referenced by different special abilities.
 
-| State    | Definition                                                   |
-| -------- | ------------------------------------------------------------ |
-| Crisis   | A creature is in **Crisis** if they have either the **Faltering** or **Unraveling** conditions, or if they have **no Wound slots** or **no Burden slots** remaining. |
-| Stressed | A creature is **Stressed** if their Strain is at least **half of their Max Strain**. Example, if a character has a Max Strain of 7, they are considered Stressed if they have 3 or more Strain. |
+```
+[STATE] Crisis
+Definition: A creature is in **Crisis** if they have either the **Faltering** or **Unraveling** conditions, or if they have **no Wound slots** or **no Burden slots** remaining.
+```
+
+```
+[STATE] Stressed
+Definition: A creature is **Stressed** if their Strain is at least **half of their Max Strain**. Example, if a character has a Max Strain of 7, they are considered Stressed if they have 3 or more Strain.
+```

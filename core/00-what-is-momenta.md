@@ -4,7 +4,7 @@
 
 **Version:** 0.31
 
-Momenta is a tactical, cinematic fantasy TTRPG built around modular archetypes and slottable masteries. This guide covers the core rules, the character-build system, and a primer on how Momenta adventure is structured.
+Momenta is a tactical, cinematic fantasy TTRPG built around modular archetypes and slottable masteries. This book covers the core rules, the character-build system, and how a Momenta adventure is structured.
 
 > **About this document:** The rules are presented concisely for TTRPG-veteran readers.
 >

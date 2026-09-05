@@ -2,7 +2,7 @@
 *Momenta Core Rules · Moment 2 · Characters · Chapter 13*
 
 
-Characters earn **merits** throughout their adventures by completing missions and objectives. Merits can be **banked during downtime** to exchange for a **new character rank**. When a character receives a new character rank, they can deploy the rank onto one of their existing archetypes to improve it, or spend the rank to acquire R1 on a new archetype.
+Characters gain new ranks by banking **merits** during downtime (see **Merits and Tiers of Play**). When a character receives a new character rank, they can deploy the rank onto one of their existing archetypes to improve it, or spend the rank to acquire R1 on a new archetype.
 
 As character ranks increase, attributes, mastery slots, and Vigor will also increase:
 

@@ -11,7 +11,7 @@ All characters can perform the following maneuvers during their turn. Certain **
 | Shift             | 2             | Move a number of squares up to half SPD (minimum 1). This movement cannot be broken up and has to be resolved all at once. Does not trigger **reactive attacks**. |
 | Basic Attack      | 2             | Make one attack with an equipped weapon.                     |
 | Shove             | 2             | Make one attack with the **Unarmed Attack** weapon. Instead of dealing damage, push the target away N number of squares, where N = number of successes rolled on the attack (maximum 3). This is considered **forced movement**. |
-| Grab              | 2             | Make one attack with the **Unarmed Attack** weapon. Instead of dealing damage, the target gets the **Grabbed N** condition, where N = number of successes rolled on the attack (maximum 3). |
+| Grab              | 2             | Make one **Unarmed Attack** to seize the target; on a hit, the target becomes **Grabbed**. Full rules under **Grab**, below. |
 | Feint             | 2             | Make one Basic Attack with a **melee weapon**. Instead of dealing damage, the target gets the **Vulnerable N** condition, where N = number of successes rolled on the attack (maximum 3). |
 | Use Consumable    | 1             | **Spend a consumable point** to activate the effects of one consumable. |
 | Hide              | 1             | Become **Hidden** if the conditions for hiding are met.      |
@@ -57,6 +57,8 @@ During the attacker's turn, they can take the Grab maneuver again to attempt to 
 Reactions are maneuvers that can be taken at any time (usually outside of a character's turn), in response to a **trigger**. When a trigger event is met, the character has the option to take the reaction immediately, provided that the Vigor cost is paid. For any single trigger event, the affected character may take at most one reaction.
 
 All characters can perform the following reactions. Certain **masteries** or **archetypes** may grant additional reaction options as well.
+
+An attack can be met by **at most one reactive defense** (Dodge or Deflect), whether by the target or by a tandem partner acting on their behalf (see **Bonds in Combat**).
 
 | Reaction  | Trigger                                                      | Vigor Cost | Description                                                  |
 | --------- | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
