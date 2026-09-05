@@ -22,7 +22,7 @@ Besides attributes, every character also has three cores, representing the found
 | Core | Sum of | Contributes towards |
 |---|---|---|
 | BODY | POW + AGI | Vitality, Vigor refresh, Body mastery slots |
-| MIND | REA + INS | Strain, Surges, Wondrous Item slots, Mind mastery slots |
+| MIND | REA + INS | Strain, Surges, wondrous item slots, Mind mastery slots |
 | SOUL | PRE + LUCK | Strain, Momentum, Resolve, Bonds, Soul mastery slots |
 
 ## Vitality

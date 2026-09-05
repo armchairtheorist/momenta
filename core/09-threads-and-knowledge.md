@@ -25,7 +25,7 @@ Threads are **earned** through the following:
 - **Completing a Personal Project** aimed at gaining a new Thread. The time spent on the project clock *is* the story of how you came by this new experience.
 - **GM reward at a defining story beat**. This can either be awarded to individual characters, or given as a shared award to the whole party that lived through a defining experience in the game (i.e., *"Survived the Sorrowmaw"*).
 
-> **Design note:** For calibration purposes, we should expect roughly **one new Thread per tier of play**. As characters advance and grow and become richer in their experiences, each Thread should be worth a little less than the last.
+> **Design Note:** For calibration purposes, we should expect roughly **one new Thread per tier of play**. As characters advance and grow and become richer in their experiences, each Thread should be worth a little less than the last.
 
 ## Rewriting Threads
 

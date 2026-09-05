@@ -206,7 +206,7 @@ All stat blocks are pre-computed: dice pools include all passive bonuses, and da
 | Human     | 1    | **Versatile** - +1 wildcard mastery slot (included below).   |
 | Human     | 1    | **Human Experience** - Gain **one additional Thread** (included below). |
 | Scholar   | 1    | **Spellcasting** - You may perform the **Cast a Spell** maneuver, using **REA** as the spellcasting attribute. |
-| Scholar   | 1    | **Starting Repertoire** - 3 bonus mastery slots (shown below), retrainable during Downtime. |
+| Scholar   | 1    | **Starting Repertoire** - 3 bonus mastery slots (shown below), retrainable during downtime. |
 | Scholar   | 1    | **Spell Focus** - Casting without a spell focus equipped incurs **-1d** on the spellcasting roll. |
 | Scholar   | 2    | **Detect Magic** - You have access to the **Detect Magic** maneuver (see Abilities). |
 | Scholar   | 2    | **Push the Craft** - When you cast a spell, you may take up to **MIND (3) Strain** before rolling; each Strain grants **+1d** on that spellcasting roll. |
@@ -226,7 +226,7 @@ All stat blocks are pre-computed: dice pools include all passive bonuses, and da
 
 | Spell Focus                   | Effect |
 | ----------------------------- | ------ |
-| Spellbook (Basic Spell Focus) | -      |
+| Spellbook (Basic spell focus) | -      |
 
 | Armor         | Type     | Effect       | Penalty                     |
 | ------------- | -------- | ------------ | --------------------------- |
@@ -304,7 +304,7 @@ Spell-shaping (pay extra Vigor when casting): Range +1 step per +1 Vigor (Touch 
 | Elf       | 1    | **Low-Light Vision**                                         |
 | Elf       | 1    | **Elven Memories** - Whenever a situation calls for having knowledge about a subject matter, you can spend **1 Strain** to upgrade your knowledge level by one step - from **Unfamiliar to Familiar**, or from **Familiar to Expert**. Only 1 Strain can be spent in this manner for each situation, and it only lasts for the duration of the current situation. |
 | Channeler | 1    | **Spellcasting** - You may perform the **Cast a Spell** maneuver, using **INS** as the spellcasting attribute. |
-| Channeler | 1    | **Starting Repertoire** - 3 bonus mastery slots (shown below), retrainable during Downtime. |
+| Channeler | 1    | **Starting Repertoire** - 3 bonus mastery slots (shown below), retrainable during downtime. |
 | Channeler | 1    | **Spell Focus** - Casting without a spell focus equipped incurs **-1d** on the spellcasting roll. |
 | Channeler | 2    | **Patron's Aura** - An aura of divine protection covering all squares **within 5** of you. Enables the **Helping Hand** reaction. |
 | Channeler | 2    | **Patron's Will** - When you cast a spell, you may **bypass the spellcasting roll** and declare successes at **2 Strain per success**. No modifiers of any kind apply. Declare before rolling and before any opposed rolls resolve. |
@@ -323,7 +323,7 @@ Spell-shaping (pay extra Vigor when casting): Range +1 step per +1 Vigor (Touch 
 
 | Spell Focus                     | Effect |
 | ------------------------------- | ------ |
-| Holy Symbol (Basic Spell Focus) | -      |
+| Holy Symbol (Basic spell focus) | -      |
 
 | Armor         | Type     | Effect       | Penalty                     |
 | ------------- | -------- | ------------ | --------------------------- |
@@ -348,7 +348,7 @@ Spell-shaping (pay extra Vigor when casting): Range +1 step per +1 Vigor (Touch 
 
 | Abilities                                                    |
 | ------------------------------------------------------------ |
-| **Mending Spirit**: When you cast Mend, both you and the target gain **+5 Guard**, regardless of band or ladder. Can result in Over-Guard.<br /><br />**Beseech**: During Interlude, restore **1 spent Resolve** (once per Interlude).<br /><br />**Patron's Will** economics: your Max Strain is 8 — declaring 3 guaranteed successes costs 6 Strain. Use it when the heal *must* land.<br /><br />**Surge**: once per turn, convert Strain into Vigor at **2 Strain per 1 Vigor**, up to MIND (3) Vigor. |
+| **Mending Spirit**: When you cast Mend, both you and the target gain **+5 Guard**, regardless of band or ladder. Can result in Over-Guard.<br /><br />**Beseech**: During interlude, restore **1 spent Resolve** (once per interlude).<br /><br />**Patron's Will** economics: your Max Strain is 8 — declaring 3 guaranteed successes costs 6 Strain. Use it when the heal *must* land.<br /><br />**Surge**: once per turn, convert Strain into Vigor at **2 Strain per 1 Vigor**, up to MIND (3) Vigor. |
 
 | Threads (3)                                      | Bonds (3)                                                    |
 | ------------------------------------------------ | ------------------------------------------------------------ |

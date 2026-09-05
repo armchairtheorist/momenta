@@ -20,7 +20,7 @@ Momentum is earned through **significant achievements** and lost through **genui
 
 Momentum **persists across interludes** within a mission and is **reset to 0 at downtime.**
 
-> **Design note:** Having Momentum persist between combats encourages players to push on instead of frequently taking full rests by going into downtime.
+> **Design Note:** Having Momentum persist between combats encourages players to push on instead of frequently taking full rests by going into downtime.
 
 ## Gaining Momentum
 

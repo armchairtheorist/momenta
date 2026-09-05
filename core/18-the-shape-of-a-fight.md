@@ -64,7 +64,7 @@ A player can choose to end their turn when they don't want to (or can't) take an
 
 If the character has any **conditions** that are **roll-to-clear** or **auto-clear**, they are resolved at the end of the turn as well.
 
-> **Design note:** A key tactical decision for players is how to budget their Vigor across rounds. Not spending all of their Vigor during their turn allows them to reserve some Vigor for defensive reactions.
+> **Design Note:** A key tactical decision for players is how to budget their Vigor across rounds. Not spending all of their Vigor during their turn allows them to reserve some Vigor for defensive reactions.
 
 ## Taking Multiple Turns
 
@@ -82,7 +82,7 @@ For combatants with multiple turns, certain turn-cycle hooks have to handled in 
 
 A combatant always has the option to **forgo any extra turns** they have and make the current turn their last turn of the round. However, every combatant must at least take one turn each round.
 
-> **Design note:** A multi-turn enemy that spends all of its attacks on a single character is the deadliest behavior available in the game. Author it deliberately, and telegraph it.
+> **Design Note:** A multi-turn enemy that spends all of its attacks on a single character is the deadliest behavior available in the game. Author it deliberately, and telegraph it.
 
 ## End of the Round
 

@@ -64,7 +64,7 @@ All of the catalog examples are a *sample of the design space*, and not to be co
 | Warrior | Tactical Coordination              | MIND | 1     | When you hit an enemy with a melee attack, the next ally to make an attack against that enemy before the start of your next turn gains **+1d** on that attack. |
 | Warrior | The Best Offense is a Good Defense | BODY | 1     | Your Focused Strike attacks gain the patterns:<br />**The Best Offense is a Good Defense (Double N)**: Add your current Guard value (including any Over-Guard) to your damage; your Guard becomes 0.<br />**The Best Offense is a Good Defense (Triple N)**: Add twice your current Guard value (including any Over-Guard) to your damage; your Guard becomes 0. |
 | Warrior | Visualization                      | MIND | 1     | After rolling an attack, you may take **2 Strain** to re-roll. You must keep the re-roll. All modifiers that applied to the original roll apply equally to the re-roll. |
-| Warrior | Weapon Specialization              | MIND | 1     | Pick one equipped weapon as your specialized weapon: attacks with that weapon gain **+1d**; attacks with any other weapon take **-1d**. You may change your specialized weapon during an Interlude. |
+| Warrior | Weapon Specialization              | MIND | 1     | Pick one equipped weapon as your specialized weapon: attacks with that weapon gain **+1d**; attacks with any other weapon take **-1d**. You may change your specialized weapon during an interlude. |
 
 
 
@@ -119,7 +119,7 @@ All of the catalog examples are a *sample of the design space*, and not to be co
 
 | Domain    | Mastery             | Type | Slots | Effect                                                       |
 | --------- | ------------------- | ---- | ----- | ------------------------------------------------------------ |
-| Channeler | Beseech             | SOUL | 1     | During Interlude, you may beseech your patron to restore **1 spent Resolve**. This can only be done once per Interlude. |
+| Channeler | Beseech             | SOUL | 1     | During interlude, you may beseech your patron to restore **1 spent Resolve**. This can only be done once per interlude. |
 | Channeler | Patron's Mark       | MIND | 1     | When you cast a spell on a creature, it gains your **Patron's Mark** (only one creature carries the Mark at a time; casting on a different creature moves it). When you cast a spell on the Marked creature: the spellcasting roll gains **+1d**. The Mark is then consumed. |
 | Channeler | Mending Spirit      | MIND | 1     | When you cast **Mend**, both you (the caster) and the target gain **+5 Guard**, regardless of the band rolled or which effect ladder the Mend uses. This can result in Over-Guard. |
 | Channeler | Smite of the Patron | SOUL | 1     | Your Rend attacks gain the pattern:<br />**Smite of the Patron (Double N)**: Spend 1 Resolve to add **+8 damage** (Vitality-ladder Rend) or **+3 Strain** (Strain-ladder Rend). |
@@ -147,7 +147,7 @@ All of the catalog examples are a *sample of the design space*, and not to be co
 | Elf    | Blade Dancer   | BODY | 1     | When a melee attack hits you (at any band, including a graze), you may immediately move **1 square** in any direction at no Vigor cost. This movement resolves after the attack's damage but before any other post-attack effects. This movement doesn't trigger any **Intercept** or **Forestall** attacks. |
 | Elf    | Eldritch Sense | MIND | 1     | Gain the **Detect Magic** maneuver (see the Scholar archetype's Rank 2 entry). |
 | Elf    | Elven Accuracy | MIND | 2     | **+1d** on ranged attacks that are not **Indefensible**, **Imprecise**, or **Seeking** — including spell attacks that qualify (e.g., Terra Rend at range). Does not apply to melee attacks. |
-| Elf    | Elven Hivemind | MIND | 1     | During Downtime, invoke the hivemind with a **luck roll**. Bank a bonus of **+Xd equal to the successes rolled**, usable on one action roll of your choice before your next invocation. You may hold only one banked bonus at a time. |
+| Elf    | Elven Hivemind | MIND | 1     | During downtime, invoke the hivemind with a **luck roll**. Bank a bonus of **+Xd equal to the successes rolled**, usable on one action roll of your choice before your next invocation. You may hold only one banked bonus at a time. |
 | Elf    | Inner Focus    | SOUL | 1     | Your own soul serves as a spellcasting focus: you never take the **-1d no-focus penalty** for casting without a spell focus equipped. This functions as a basic focus only — it grants none of an exotic focus's bonuses. Applies to all your casting, innate or path-granted. |
 | Elf    | Old Sight      | SOUL | 1     | You sense magic, Fey, and undead within 5 squares of you. No roll required. For creatures of these types in range: Hidden → Obscured; Obscured → Visible; Visible → unchanged. |
 | Elf    | Sylvan Step    | BODY | 1     | You ignore **difficult terrain** from natural sources (foliage, undergrowth, snow, sand, vines — GM adjudicates ambiguous cases). **+1d** on Stealth action rolls in natural environments. |

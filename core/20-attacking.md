@@ -132,7 +132,7 @@ Special handling of resistances and weaknesses for attacks that carry multiple d
 - Similarly, If an attack has multiple damage types, and the defender has **weakness to at least one damage type** and **no resistances** to any listed damage type, then the defender has **weakness** against the attack.
 - If a defender has **at least one resistance and one weakness** against any of the attack's listed damage types, then the defender treats the attack normally **without any resistances or weaknesses**.
 
-> **Design note:** Cancelling out resistances and weaknesses in this simple manner is a design decision to speed up play.
+> **Design Note:** Cancelling out resistances and weaknesses in this simple manner is a design decision to speed up play.
 
 Example: Kira deals 20 damage with the holy flaming axe (Slashing, Radiant, Fire) to a creature with 5 Guard:
 

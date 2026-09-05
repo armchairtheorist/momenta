@@ -454,7 +454,7 @@ There is no limit to the number of spell foci that a character can equip, as lon
 #### Basic Spell Focus
 
 ```
-[FOCUS] Basic Spell Focus
+[FOCUS] Basic spell focus
 
 Effect: none
 ```
@@ -465,7 +465,7 @@ Effect: none
 
 #### Exotic Spell Focus
 
-Exotic spell foci are found, crafted, rewarded, or otherwise acquired. They may grant specific bonuses (and sometimes penalties) beyond the Basic Spell Focus.
+Exotic spell foci are found, crafted, rewarded, or otherwise acquired. They may grant specific bonuses (and sometimes penalties) beyond the Basic spell focus.
 
 ```
 [FOCUS] Ignis Crown

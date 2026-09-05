@@ -82,4 +82,4 @@ During narrative play, players can choose to spend **1 Momentum** to declare a f
 
 The GM can either ratify the player's declaration, or makes adjustments as required.
 
-> **Design note:** The reason this costs Momentum is because this is considered *authorship spend*. We want to encourage player creativity during narrative play, but we also want to enforce the fact that editing the world is not free.
+> **Design Note:** The reason this costs Momentum is because this is considered *authorship spend*. We want to encourage player creativity during narrative play, but we also want to enforce the fact that editing the world is not free.

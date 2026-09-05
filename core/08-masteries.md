@@ -23,7 +23,7 @@ Most masteries take up 1 slot. Some particularly powerful masteries cost more th
 - The slot cost must be paid **entirely within a single type board** - e.g., all body, all mind, all soul, or all wildcard.
 - The slot cost **cannot be split** across boards (e.g., a 2-slot body mastery cannot pay 1 body + 1 wildcard).
 
-> **Design note:** This keeps multi-slot masteries as *concentrated* investments. Taking a powerful mastery means dedicating an unusual share of one board to it, not stitching small contributions together.
+> **Design Note:** This keeps multi-slot masteries as *concentrated* investments. Taking a powerful mastery means dedicating an unusual share of one board to it, not stitching small contributions together.
 
 ## Bonus Mastery Slots
 

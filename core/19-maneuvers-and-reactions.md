@@ -58,6 +58,8 @@ Reactions are maneuvers that can be taken at any time (usually outside of a char
 
 All characters can perform the following reactions. Certain **masteries** or **archetypes** may grant additional reaction options as well.
 
+An attack can be met by **at most one reactive defense** (Dodge or Deflect), whether by the target or by a tandem partner acting on their behalf (see **Bonds in Combat**).
+
 | Reaction  | Trigger                                                      | Vigor Cost | Description                                                  |
 | --------- | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
 | Dodge     | When you are targeted by an attack.                          | 2          | *Reactive Defense*<br />You **oppose** the attack with AGI.  |

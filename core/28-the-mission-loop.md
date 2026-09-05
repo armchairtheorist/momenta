@@ -31,7 +31,7 @@ The GM frames each mission as a **mission arc** - a set of objectives the party 
 
 **Running out the clock results in degraded outcomes, not failure.** An exhausted mission clock does not erase the objectives; it *worsens* them. Any objective completed **after** the clock runs out only pays **half its merit reward**, and the GM narrates the consequence or cost. The clock provides players with urgency, but it is not a game-over timer. A mission arc with no mission clock simply applies no time pressure; the push-on tension then rests on the combat economy alone.
 
-> **Design note:** The clock is a budget that the party manages. Parties can decide if they want to attempt everything and risk running short of clock, or focus on only what matters and bank it safely.
+> **Design Note:** The clock is a budget that the party manages. Parties can decide if they want to attempt everything and risk running short of clock, or focus on only what matters and bank it safely.
 
 ## Campaign Difficulty
 
@@ -43,4 +43,4 @@ There are three default **campaign difficulty levels** in Momenta - The GM can c
 | "Heroic"            | Medium | 3                            | 5 merits / rank     |
 | "Ultra"             | Hard   | 3                            | 7 merits / rank     |
 
-> **Design note:** In Momenta, the default difficulty level is "Heroic", and all of the balance, encounter building, and adventure pacing are based on that. As a general pacing guide, at "Heroic" difficulty level, a party should clear roughly **one tier of play (six character ranks) for every five missions**, or about 1.2 character ranks per mission.
+> **Design Note:** In Momenta, the default difficulty level is "Heroic", and all of the balance, encounter building, and adventure pacing are based on that. As a general pacing guide, at "Heroic" difficulty level, a party should clear roughly **one tier of play (six character ranks) for every five missions**, or about 1.2 character ranks per mission.
