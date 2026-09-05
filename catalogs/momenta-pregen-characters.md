@@ -2,7 +2,7 @@
 
 **Version:** 0.31
 
-Momenta is a tactical, cinematic fantasy TTRPG built around modular archetypes and slottable masteries. This catalog contains ready-to-play pregenerated characters. It is intended to be used with the `Momenta - Quick Start Guide` document, which contains the core rules of Momenta.
+Momenta is a tactical, cinematic fantasy TTRPG built around modular archetypes and slottable masteries. This catalog contains ready-to-play pregenerated characters. It is intended to be used with the **Momenta Core Rules**.
 
 All stat blocks are pre-computed: dice pools include all passive bonuses, and damage ladders are printed with all static riders applied.
 

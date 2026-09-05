@@ -2,7 +2,7 @@
 
 **Version:** 0.31
 
-Momenta is a tactical, cinematic fantasy TTRPG built around modular archetypes and slottable masteries. This catalog contains the mastery and mastery set stat blocks. It is intended to be used with the `Momenta - Quick Start Guide` document, which contains the core rules of Momenta (see the quickstart's Masteries section for slot types, multi-slot payment, and retraining rules).
+Momenta is a tactical, cinematic fantasy TTRPG built around modular archetypes and slottable masteries. This catalog contains the mastery and mastery set stat blocks. It is intended to be used with the **Momenta Core Rules** (see **Masteries** for slot, multi-slot payment, and retraining rules).
 
 All of the catalog examples are a *sample of the design space*, and not to be considered an exhaustive list.
 

@@ -4,7 +4,7 @@
 
 ## Gear
 
-All characters start out with **3 gear slots**. Additional gear slots may be granted by archetype abilities or masteries. Gear slots can be used to equip **weapons**, **armor**, or **spell foci** (for spellcasting archetypes that grant access to it). Characters can freely choose the combination of gear they want to equip, but they can only equip **one armor** at a time.
+Your **gear slots** (see **Characters at a Glance**) can be used to equip **weapons**, **armor**, or **spell foci** (for spellcasting archetypes that grant access to it). Characters can freely choose the combination of gear they want to equip, but they can only equip **one armor** at a time.
 
 The kind of weapons, armor, or spell foci that a character can equip will be dependent on the archetypes that they have. By default, characters only have access to **Light weapons**, and **Standard armor**.
 
@@ -111,7 +111,7 @@ All spellcasting archetypes will receive a **basic spell focus** with no special
 
 ## Wondrous Items
 
-Wondrous items are unique, magical items that grant the wielder special abilities or bonuses. Wondrous items are unlike normal gear, and need to be equipped into a **wondrous item slot**. A character has a number of wondrous item slots equal to their MIND value.
+Wondrous items are unique, magical items that grant the wielder special abilities or bonuses. Wondrous items are unlike normal gear, and need to be equipped into a **wondrous item slot**. See **Characters at a Glance** for how many wondrous item slots a character has.
 
 ## Consumables
 

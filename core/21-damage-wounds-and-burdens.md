@@ -67,3 +67,7 @@ It is therefore possible for a single huge attack to cause multiple Wounds (or B
 
 - When a character becomes **Defeated**, their Vitality is set to **0**. Defeated characters are essentially out of the combat until the Defeated condition can be removed.
 - When a character becomes **Lost**, their Strain resets to **0**. Lost characters are still in combat, but lose some player agency and must follow the GM's commands until the Lost condition can be removed.
+
+## Healing
+
+Wounds and Burdens persist after combat. They are healed during interludes and downtime (see **Interludes** and **Downtime**).

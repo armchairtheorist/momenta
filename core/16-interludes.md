@@ -61,6 +61,3 @@ Spend the scene in quiet focus, prayer, or trusted company. Recover 2 Resolve.
 
 GMs are free to introduce other interlude scenes as appropriate.
 
-## Healing Wounds and Burdens
-
-Wounds and Burdens persist after combat. They are healed during **downtime** or by **spending Resolve** during **interludes**.

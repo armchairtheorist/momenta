@@ -122,13 +122,11 @@ To determine which of two creatures are **bigger** or **smaller** based on their
 
 ## Equipment
 
-There are three kinds of equipment that characters can have:
+Characters carry three kinds of equipment. The full rules are in **Equipment**; the numbers below are derived stats.
 
-- **Gear** - Weapons, armor, or other archetype-specific gear like spell foci. Characters have a number of **gear slots** that determine how much gear can be equipped. No matter how many gear slots are available, characters **cannot equip more than one armor** at a time.
-- **Wondrous Items** - Special items that grant special benefits and abilities. Like gear, characters have a number of **wondrous item slots** that determine how many wondrous items can be equipped at any time.
-- **Consumables** - Single-use equipment, like potions and bombs. Consumables are represented using **consumable points**. One consumable point allows a character to dig into their backpack and automatically retrieve and use any one consumable that the character or party has access to. These consumables do not have to be pre-decided ahead of time. Consumable points are replenished during **downtime**.
-
-Characters start with a fixed number of gear slots, wondrous item slots, and consumable points. These may be increased later on through special abilities or masteries.
+- **Gear** - Weapons, armor, and spell foci, limited by **gear slots**.
+- **Wondrous items** - Magical items with special benefits, limited by **wondrous item slots**.
+- **Consumables** - Single-use items, tracked as **consumable points** rather than as individual items.
 
 ```
 Gear Slots = 3
@@ -138,9 +136,7 @@ Consumable Points = 2
 
 ## Threads and Bonds
 
-Threads represent lived experiences and character backstory, used primarily for narrative play. Most characters will start out with 3 Threads, but this could be modified by their **ancestry archetype** or chosen **masteries**.
-
-Bonds are relationships that a character develops through play over time. Bond can guide character behavior, and if it is strong enough, it could change what the characters can do. There is a limit to the number of individual Bonds that a character may hold at any one time.
+**Threads** are chapters of a character's life; **Bonds** are the relationships a character develops through play. Both are used mainly in narrative play, and strong Bonds change what characters can do in combat. See **Threads and Knowledge** and **Bonds**.
 
 ```
 Max Bonds = SOUL + 3

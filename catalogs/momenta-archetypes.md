@@ -2,7 +2,7 @@
 
 **Version:** 0.31
 
-Momenta is a tactical, cinematic fantasy TTRPG built around modular archetypes and slottable masteries. This catalog contains the archetype stat blocks. It is intended to be used with the `Momenta - Quick Start Guide` document, which contains the core rules of Momenta.
+Momenta is a tactical, cinematic fantasy TTRPG built around modular archetypes and slottable masteries. This catalog contains the archetype stat blocks. It is intended to be used with the **Momenta Core Rules**.
 
 All of the catalog examples are a *sample of the design space*, and not to be considered an exhaustive list.
 

@@ -9,7 +9,7 @@ In Momenta, combat encounters are won by **completing their objectives**, and no
 Combat encounters are a key part of gameplay. Every encounter will have:
 
 - A **main encounter objective** - This is the key set of conditions that must occur for the players to complete the encounter successfully. Encounter objectives may include defeating all enemies, but it doesn't always have to be. Completing a main encounter objective may be required for a **mission objective** to be achieved.
-- A number of optional **side encounter objectives** - These are also known as *encounter challenges*. Achieving encounter challenges help the party gain Momentum.
+- A number of optional **side encounter objectives** - These are also known as *encounter challenges*. Achieving encounter challenges help the party gain Momentum (see **Momentum**).
 
 ## Encounter Card
 

@@ -2,7 +2,7 @@
 
 **Version:** 0.31
 
-Momenta is a tactical, cinematic fantasy TTRPG built around modular archetypes and slottable masteries. This catalog contains ready-to-run enemy stat blocks and overlay templates for the **Novice tier** of play. It is intended to be used with the `Momenta - Quick Start Guide` document, which contains the core rules of Momenta — including the encounter asymmetry rules that govern everything below.
+Momenta is a tactical, cinematic fantasy TTRPG built around modular archetypes and slottable masteries. This catalog contains ready-to-run enemy stat blocks and overlay templates for the **Novice tier** of play. It is intended to be used with the **Momenta Core Rules** (see **Building Encounters** for the challenge-class rules that govern everything below).
 
 All of the catalog examples are a *sample of the design space*, and not to be considered an exhaustive list.
 
