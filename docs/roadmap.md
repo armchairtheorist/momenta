@@ -1,6 +1,6 @@
 # Momenta Roadmap → v1.0
 
-**Current:** v0.31 — reorganized into Moments, Pass 1 complete (2026-09-05) · **Target:** v1.0 published as PDF + HTML, with a working Foundry VTT system
+**Current:** v0.31 — reorganized into Moments, Pass 2 complete (2026-09-05) · **Target:** v1.0 published as PDF + HTML, with a working Foundry VTT system
 **How to use:** this is a living checklist. Update it in real time as work lands. `☐` open · `☑` done · `◐` in progress · `⏸` deferred by decision. Keep entries short; rationale lives in the decisions log, not here.
 
 ---
@@ -64,12 +64,12 @@
 
 ## M · Core rules reorganization (see decisions D-46)
 - ☑ Pass 1 — split the core rules into one file per chapter under `core/` (lossless, verified)
-- ☐ Pass 2 — redundancy kill list K1–K12 (see the reorg proposal); K7 becomes "Increasing the Odds" as the home of narrative invocation
-- ☐ Pass 2 — write the glue chapters: The Loop of Play, How to Use This Book, Running the Game
-- ☐ Pass 2 — Appendix B Glossary (one line + link per term, every condition included)
-- ☐ Pass 2 — general one-reactive-defense sentence in Maneuvers and Reactions (moved here from H)
-- ☐ Pass 2 — style-guide conformance sweep while every chapter is open (moved here from H)
-- ☐ Cross-reference pass: convert "see **X**" pointers to relative links with stable slugs
+- ☑ Pass 2 — redundancy kill list K1–K12; "Increasing the Odds" is the home of Thread and Bond invocation
+- ☑ Pass 2 — glue chapters: The Loop of Play, How to Use This Book, Running the Game
+- ☑ Pass 2 — Appendix B Glossary (177 terms, one line + link each)
+- ☑ Pass 2 — one-reactive-defense rule in Maneuvers and Reactions
+- ☑ Pass 2 — style-guide conformance sweep (Appendix B rulings applied; [STATE] entries)
+- ☐ Cross-reference pass: convert "see **X**" pointers to relative links with stable slugs (with the publishing tooling spike)
 
 ## H · Rules text hygiene
 - ⏸ Style-guide conformance sweep — moved to §M Pass 2
