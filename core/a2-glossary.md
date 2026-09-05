@@ -1,4 +1,182 @@
 # Appendix B · Glossary
 *Momenta Core Rules · Appendices · Chapter B*
 
-> *Placeholder — this chapter is written in Pass 2.*
+Every game term, one line each, with a pointer to the chapter that defines it. These are identifications, not rules: the chapter is always authoritative.
+
+- **Action roll** — The standard roll: a pool of d6s, each 5 or 6 a success. *[Rolling Dice](03-rolling-dice.md)*
+- **Affliction** — A persistent condition gained from Burdens; there are six named Afflictions, and they survive interludes. *[Conditions and States](22-conditions-and-states.md)*
+- **Archetype** — A package of ranked abilities; every character has an ancestry archetype and at least one path archetype. *[Archetypes](07-archetypes.md)*
+- **Area attack** — An attack that affects every creature within a shape rather than a chosen target. *[Attacking](20-attacking.md)*
+- **Art** — The verb of a spell — what it does. Combined with a Resonance to make a spell. *[Spellcasting](24-spellcasting.md)*
+- **Assist** — Spend Resolve to add dice to an ally's narrative action roll. *[Narrative Actions](14-narrative-actions.md)*
+- **Attribute** — POW, AGI, REA, INS, PRE, and LUCK; they set your dice pools. *[Characters at a Glance](05-characters-at-a-glance.md)*
+- **Auto-clear** — A clear type: the condition loses a stack at the end of your turn. *[Conditions and States](22-conditions-and-states.md)*
+- **Basic Attack** — The maneuver for attacking with an equipped weapon. *[Maneuvers and Reactions](19-maneuvers-and-reactions.md)*
+- **Basic path** — The archetype class that defines a character's trade: Warrior, Scholar, Channeler, and so on. *[Archetypes](07-archetypes.md)*
+- **Beat** — A unit of the mission clock; missions are measured in beats. *[The Mission Loop](28-the-mission-loop.md)*
+- **Blast, Cone, Line, Wall, Salvo** — The shapes an area spell can take. *[Spellcasting](24-spellcasting.md)*
+- **BODY, MIND, SOUL** — The three cores; each is the sum of two attributes and drives derived stats and mastery slots. *[Characters at a Glance](05-characters-at-a-glance.md)*
+- **Bond** — A relationship with mechanical weight, grown through play and measured by Strands and intensity. *[Bonds](10-bonds.md)*
+- **Bond intensity** — The five strengths of a Bond: Fleeting (1), Rooted (2), Enduring (3), Profound (4), Unbreakable (5). *[Bonds](10-bonds.md)*
+- **Bond Montage** — A downtime action that grows a Bond. *[Downtime](17-downtime.md)*
+- **Bond target** — The character, creature, place, or object a Bond is held toward. *[Bonds](10-bonds.md)*
+- **Bond Vignette** — An interlude scene that grows a Bond. *[Interludes](16-interludes.md)*
+- **Brace** — A free reaction that halves incoming damage at the price of Broken; not a reactive defense. *[Maneuvers and Reactions](19-maneuvers-and-reactions.md)*
+- **Broken** — A condition that costs you your maneuvers and reactions until the end of your turn. *[Conditions and States](22-conditions-and-states.md)*
+- **Burden** — Filled when Strain reaches its maximum; each Burden inflicts an Affliction. *[Damage, Wounds, and Burdens](21-damage-wounds-and-burdens.md)*
+- **Called shot** — Targeting Edge or Mark instead of Mass, at a dice penalty for a stronger effect. *[Attacking](20-attacking.md)*
+- **Campaign difficulty** — The mission-level setting that governs merits and the mission clock. *[The Mission Loop](28-the-mission-loop.md)*
+- **Carry** — In a group roll, covering an ally's consequence with your own. *[Narrative Actions](14-narrative-actions.md)*
+- **Cast a Spell** — The maneuver for casting a spell from your repertoire. *[Spellcasting](24-spellcasting.md)*
+- **Catastrophic Failure, Failure, Success at a Cost, Success, Success with a Bonus** — The five outcomes of a narrative action roll, read from the difficulty ladder. *[Narrative Actions](14-narrative-actions.md)*
+- **Catch Your Breath** — A full-turn maneuver that trades Resolve for Vitality. *[Maneuvers and Reactions](19-maneuvers-and-reactions.md)*
+- **Challenge class** — An enemy's weight: Grunt, Regular, Elite, Champion, or Nemesis. *[Building Encounters](30-building-encounters.md)*
+- **Champion** — A challenge class: a boss with multiple turns, Wound slots, and telegraphed signatures. *[Building Encounters](30-building-encounters.md)*
+- **Clock** — A segmented tracker for progress or pressure in narrative play. *[Clocks](15-clocks.md)*
+- **Combination weapon** — A weapon in parts that share gear slots. *[Equipment](11-equipment.md)*
+- **Combo Limit Break** — A Limit Break performed together by partners who share a mutual Bond 4 or higher. *[Bonds in Combat](25-bonds-in-combat.md)*
+- **Come Back to Me!** — The mutual Bond 4 maneuver that can bring back a Defeated or Lost partner. *[Bonds in Combat](25-bonds-in-combat.md)*
+- **Concept line** — The one-sentence description of who a character is, written at creation. *[Creating a Character](12-creating-a-character.md)*
+- **Condition** — A status with a clear type and, often, stacks; the full list is in one chapter. *[Conditions and States](22-conditions-and-states.md)*
+- **Consumable** — A single-use item, tracked with consumable points rather than individually. *[Equipment](11-equipment.md)*
+- **Consumable point** — The resource spent to use any consumable you have access to. *[Characters at a Glance](05-characters-at-a-glance.md)*
+- **Core** — See BODY, MIND, SOUL. *[Characters at a Glance](05-characters-at-a-glance.md)*
+- **Counterattack** — A reaction that answers a melee attack with one of your own. *[Maneuvers and Reactions](19-maneuvers-and-reactions.md)*
+- **Cover** — Partial obstruction that limits which hit locations a ranged attack can target. *[Attacking](20-attacking.md)*
+- **Crisis** — A state: you are on your last Vitality or Strain track. *[Conditions and States](22-conditions-and-states.md)*
+- **Cumbersome** — A tag: attacks with this weapon cost more Vigor. *[Appendix A · Tags](a1-tags.md)*
+- **Cursed** — A condition that turns your luck rolls into zero successes. *[Conditions and States](22-conditions-and-states.md)*
+- **Damage type** — The kind of damage an attack deals — Slashing, Piercing, Crushing, Fire, and others — used by resistance and weakness. *[Attacking](20-attacking.md)*
+- **Defeated** — A condition: you are out of the fight until something brings you back. *[Conditions and States](22-conditions-and-states.md)*
+- **Deflect** — A reactive defense that turns an attack aside with a weapon or shield; also the tag that permits it. *[Maneuvers and Reactions](19-maneuvers-and-reactions.md)*
+- **Delivered range** — The range step a spell is actually cast at; it decides whether the spell is a melee or ranged attack. *[Spellcasting](24-spellcasting.md)*
+- **Difficult terrain** — Squares that cost extra movement. *[Maneuvers and Reactions](19-maneuvers-and-reactions.md)*
+- **Difficulty ladder** — The four rungs of narrative difficulty: Routine, Tricky, Daunting, Insurmountable. *[Narrative Actions](14-narrative-actions.md)*
+- **Dodge** — A reactive defense using AGI. *[Maneuvers and Reactions](19-maneuvers-and-reactions.md)*
+- **Domain** — The grouping a mastery belongs to (General, Martial, an archetype, and so on), which decides who can take it. *[Masteries](08-masteries.md)*
+- **Downtime** — The long rest between missions: full recovery, advancement, and downtime actions. *[Downtime](17-downtime.md)*
+- **Downtime action** — One of the activities each character takes during downtime. *[Downtime](17-downtime.md)*
+- **Edge** — A hit location; a hit here hinders the target. *[Attacking](20-attacking.md)*
+- **Effortless** — A narrative pattern (Triple) that refunds Resolve. *[Patterns](04-patterns.md)*
+- **Elite** — A challenge class: a dangerous single enemy with Wound slots and multiple turns. *[Building Encounters](30-building-encounters.md)*
+- **Encounter** — A combat, framed by objectives and won by achieving them. *[Building Encounters](30-building-encounters.md)*
+- **Encounter challenge** — A side encounter objective; achieving one earns Momentum. *[Building Encounters](30-building-encounters.md)*
+- **Equilibrium rule** — The limit on how far apart your highest and lowest cores can be. *[Creating a Character](12-creating-a-character.md)*
+- **Exhausted** — A condition that halves your Vigor refresh. *[Conditions and States](22-conditions-and-states.md)*
+- **Extra Success** — A narrative pattern (Double) that raises the outcome of a roll one step. *[Patterns](04-patterns.md)*
+- **Faltering** — The death-track condition gained on filling your last Wound slot; survive it turn by turn. *[Conditions and States](22-conditions-and-states.md)*
+- **Feint** — A maneuver that makes a target Vulnerable instead of dealing damage. *[Maneuvers and Reactions](19-maneuvers-and-reactions.md)*
+- **Forced movement** — Movement you did not choose; it never triggers Forestall but can trigger Intercept. *[Maneuvers and Reactions](19-maneuvers-and-reactions.md)*
+- **Forestall** — A reaction that punishes an enemy leaving your reach. *[Maneuvers and Reactions](19-maneuvers-and-reactions.md)*
+- **Free action** — An act that costs no Vigor and no maneuver. *[Maneuvers and Reactions](19-maneuvers-and-reactions.md)*
+- **Frightened** — A condition: you cannot move toward or melee-attack the source of your fear. *[Conditions and States](22-conditions-and-states.md)*
+- **Full-turn maneuver** — A maneuver that consumes your whole turn except the free Move. *[Maneuvers and Reactions](19-maneuvers-and-reactions.md)*
+- **Gear** — Weapons, armor, and spell foci, limited by gear slots. *[Equipment](11-equipment.md)*
+- **Gear slot** — A derived stat: how many pieces of gear you can equip. *[Characters at a Glance](05-characters-at-a-glance.md)*
+- **Grab** — The maneuver that seizes a target; the target becomes Grabbed. *[Maneuvers and Reactions](19-maneuvers-and-reactions.md)*
+- **Grabbed** — A condition: a grabber is holding you and neither of you can move freely. *[Conditions and States](22-conditions-and-states.md)*
+- **Graze** — An attack reduced to zero successes; it still deals its lowest damage band but triggers no patterns. *[Rolling Dice](03-rolling-dice.md)*
+- **Group roll** — A narrative roll the whole party makes together. *[Narrative Actions](14-narrative-actions.md)*
+- **Grunt** — A challenge class: rank-and-file enemies that act in squads and never roll. *[Building Encounters](30-building-encounters.md)*
+- **Guard** — A damage buffer that absorbs hits before Vitality and refreshes each turn. *[Characters at a Glance](05-characters-at-a-glance.md)*
+- **Hidden** — A state: enemies cannot target you until you are found. *[Vision, Lighting, and Stealth](23-vision-lighting-and-stealth.md)*
+- **Hide** — The maneuver for becoming Hidden. *[Vision, Lighting, and Stealth](23-vision-lighting-and-stealth.md)*
+- **Hindered** — A condition that slows you and strips your ability to Dodge. *[Conditions and States](22-conditions-and-states.md)*
+- **Hit location** — Where an attack lands: Mass, Edge, or Mark. *[Attacking](20-attacking.md)*
+- **Impaired** — A condition: a dice penalty per stack on all rolls except luck rolls. *[Conditions and States](22-conditions-and-states.md)*
+- **Imprecise** — A tag: the attack can only target Mass. *[Appendix A · Tags](a1-tags.md)*
+- **Indefensible** — A tag: the attack cannot be met by reactive defenses. *[Appendix A · Tags](a1-tags.md)*
+- **Independent** — A combatant on neither side, acting after everyone else. *[The Shape of a Fight](18-the-shape-of-a-fight.md)*
+- **Intercept** — A reaction that strikes an enemy entering your reach. *[Maneuvers and Reactions](19-maneuvers-and-reactions.md)*
+- **Interlude** — The short rest between encounters, with room for one meaningful scene. *[Interludes](16-interludes.md)*
+- **Interlude scene** — A brief scene played during an interlude. *[Interludes](16-interludes.md)*
+- **Invisible** — A condition: you are always hidden, and those able to locate you treat you as obscured. *[Vision, Lighting, and Stealth](23-vision-lighting-and-stealth.md)*
+- **Invoke** — Spending Resolve to bring a Bond to bear on a roll, in a scene or a fight. *[Narrative Actions](14-narrative-actions.md)*
+- **Knowledge** — What a character simply knows, decided by their Threads and Bonds. *[Threads and Knowledge](09-threads-and-knowledge.md)*
+- **Limit Break** — A signature full-turn move powered by Momentum or by Crisis. *[Limit Breaks](26-limit-breaks.md)*
+- **Line of sight** — A clear line from your square to the target's; required for ranged attacks and many abilities. *[Attacking](20-attacking.md)*
+- **Lost** — A condition: your character's mind is lost and the GM controls them. *[Conditions and States](22-conditions-and-states.md)*
+- **Luck roll** — Testing your luck — a roll of your LUCK dice that no modifier can touch. *[Rolling Dice](03-rolling-dice.md)*
+- **Maneuver** — An action taken on your turn, paid for with Vigor. *[Maneuvers and Reactions](19-maneuvers-and-reactions.md)*
+- **Mark** — A hit location; a hit here hurts more, and a Wound here also Breaks the target. *[Attacking](20-attacking.md)*
+- **Mass** — The default hit location: the body. *[Attacking](20-attacking.md)*
+- **Mastery** — A slotted ability that customizes a character; found in the Masteries catalog. *[Masteries](08-masteries.md)*
+- **Mastery set** — A group of masteries that grants a bonus when equipped together. *[Masteries](08-masteries.md)*
+- **Mastery slot** — A derived stat: how many masteries of each type you can equip; wildcard slots take any type. *[Characters at a Glance](05-characters-at-a-glance.md)*
+- **Melee N, Range N** — Tags: the attack is melee with reach N, or ranged with maximum range N. *[Appendix A · Tags](a1-tags.md)*
+- **Merit** — The advancement currency, awarded for objectives and banked for ranks at downtime. *[Merits and Tiers of Play](29-merits-and-tiers-of-play.md)*
+- **Mission** — The unit of story: objectives, a mission clock, and a campaign difficulty, ending in downtime. *[The Mission Loop](28-the-mission-loop.md)*
+- **Mission clock** — The beats a party has to complete a mission. *[The Mission Loop](28-the-mission-loop.md)*
+- **Momentous Development** — Spend Momentum to add a true fact to the world, anchored in a Thread or Bond. *[Narrative Actions](14-narrative-actions.md)*
+- **Momentous Feat, Momentous Fortune** — Spend Momentum to add successes to a roll, or to reroll a luck roll. *[Narrative Actions](14-narrative-actions.md)*
+- **Momentum** — The party's shared pool, earned by objectives and dramatic play, spent on Limit Breaks and Momentous abilities. *[Momentum](06-momentum.md)*
+- **Move, Shift** — The maneuvers for moving your speed and for stepping one square. *[Maneuvers and Reactions](19-maneuvers-and-reactions.md)*
+- **Narrative play** — The half of the game played in scenes, with dice only when the outcome is in doubt. *[Narrative Actions](14-narrative-actions.md)*
+- **Nemesis** — A challenge class: the campaign's great enemy, immune to most control and able to shrug off conditions. *[Building Encounters](30-building-encounters.md)*
+- **Opposable** — A spell tag: the target resists with a free opposition roll. *[Spellcasting](24-spellcasting.md)*
+- **Opposition roll** — A roll made to resist another roll; successes cancel. *[Rolling Dice](03-rolling-dice.md)*
+- **Over-Guard** — Guard above your maximum, from effects that grant it. *[Characters at a Glance](05-characters-at-a-glance.md)*
+- **Pattern** — A combination of matching dice that triggers an extra effect; players choose how to allocate their dice. *[Patterns](04-patterns.md)*
+- **Penetrating** — A tag: the attack bypasses Guard. *[Appendix A · Tags](a1-tags.md)*
+- **Persistent** — A clear type: the condition ends only by its own rules. *[Conditions and States](22-conditions-and-states.md)*
+- **Point-blank** — The penalty for ranged attacks against an adjacent target. *[Attacking](20-attacking.md)*
+- **Precise** — A line in an enemy's tactics that permits called shots. *[Building Encounters](30-building-encounters.md)*
+- **Provoked** — A condition that punishes attacking anyone but its source. *[Conditions and States](22-conditions-and-states.md)*
+- **Push the Craft** — A Scholar casting maneuver: take Strain for extra dice on a spellcasting roll. *[Spellcasting](24-spellcasting.md)*
+- **Push Yourself** — Spend Resolve to add dice to your own narrative action roll. *[Narrative Actions](14-narrative-actions.md)*
+- **Rank** — A character's level; ranks are gained with merits and raise attributes, slots, and Vigor. *[Advancement](13-advancement.md)*
+- **Reaction** — An act taken outside your turn in response to a trigger, paid for with Vigor. *[Maneuvers and Reactions](19-maneuvers-and-reactions.md)*
+- **Reactive attack, reactive defense** — The two families of reaction: strike back, or turn an attack aside (Dodge, Deflect). *[Maneuvers and Reactions](19-maneuvers-and-reactions.md)*
+- **Realized** — An archetype at its third rank. *[Archetypes](07-archetypes.md)*
+- **Reflexive** — A tag: the weapon can make Forestall reactions. *[Appendix A · Tags](a1-tags.md)*
+- **Regular** — A challenge class: standard enemies that roll but never clear roll-to-clear conditions. *[Building Encounters](30-building-encounters.md)*
+- **Repertoire** — The Arts and Resonances a caster knows. *[Spellcasting](24-spellcasting.md)*
+- **Resistance, weakness** — Halving or doubling the damage of a type that gets past Guard. *[Attacking](20-attacking.md)*
+- **Resolve** — Personal grit, spent to push yourself, invoke Bonds, and recover; restored at downtime. *[Characters at a Glance](05-characters-at-a-glance.md)*
+- **Resonance** — The substance of a spell — fire, light, mind, time, earth — combined with an Art. *[Spellcasting](24-spellcasting.md)*
+- **Roll-to-clear** — A clear type: roll the named attribute at the end of your turn to shed stacks. *[Conditions and States](22-conditions-and-states.md)*
+- **Round, turn** — A round is everyone acting once; a turn is one combatant's action. *[The Shape of a Fight](18-the-shape-of-a-fight.md)*
+- **Scene** — A unit of narrative play framed by the GM. *[Narrative Actions](14-narrative-actions.md)*
+- **Scene action** — An encounter feature that acts on its own turn. *[Building Encounters](30-building-encounters.md)*
+- **Scripted defense** — An enemy's fixed, no-roll answer to attacks, used in place of reactions. *[Building Encounters](30-building-encounters.md)*
+- **Seeking** — A tag: the attack ignores Cover. *[Appendix A · Tags](a1-tags.md)*
+- **SEN, SPD, SIZE** — Derived stats: how far you perceive, how far you move, and how much space you occupy. *[Characters at a Glance](05-characters-at-a-glance.md)*
+- **Shake It Off, Steady Yourself** — Shed a stack of certain conditions, or spend a full turn to clear half your Max Strain. *[Maneuvers and Reactions](19-maneuvers-and-reactions.md)*
+- **Shield** — A tag: the weapon can Deflect any melee attack, including spells. *[Appendix A · Tags](a1-tags.md)*
+- **Shove** — A maneuver that pushes a target with forced movement. *[Maneuvers and Reactions](19-maneuvers-and-reactions.md)*
+- **Shrouded** — A condition that collapses your senses to a single square. *[Conditions and States](22-conditions-and-states.md)*
+- **Slowed** — A condition that pushes you to the end of the turn order. *[Conditions and States](22-conditions-and-states.md)*
+- **Solid Hit** — The universal combat pattern (Double): extra damage equal to the matched face. *[Patterns](04-patterns.md)*
+- **Specialist path** — An advanced archetype class with prerequisites, such as Ninja or Magus. *[Archetypes](07-archetypes.md)*
+- **Spell** — An Art combined with a Resonance, cast at a chosen shape and range. *[Spellcasting](24-spellcasting.md)*
+- **Spell focus** — Gear that supports spellcasting. *[Equipment](11-equipment.md)*
+- **Spell-shaping** — Paying Vigor to upgrade a spell's range, area, duration, or targets above its basic shape. *[Spellcasting](24-spellcasting.md)*
+- **Squad** — Up to four Grunts that act as one turn. *[Building Encounters](30-building-encounters.md)*
+- **Stat block** — An enemy's full write-up. *[Building Encounters](30-building-encounters.md)*
+- **Stay With Me!** — The Bond 2 maneuver that calls a Faltering or Unraveling ally back from the edge. *[Bonds in Combat](25-bonds-in-combat.md)*
+- **Strain** — The mental track; it fills upward, and a full track inflicts a Burden. *[Characters at a Glance](05-characters-at-a-glance.md)*
+- **Strand** — The unit of a Bond's growth; enough Strands raise its intensity. *[Bonds](10-bonds.md)*
+- **Stressed** — A state: your Strain is at least half its maximum. *[Conditions and States](22-conditions-and-states.md)*
+- **Surge** — A maneuver that converts Strain into Vigor. *[Maneuvers and Reactions](19-maneuvers-and-reactions.md)*
+- **Surprised** — A condition for combatants caught unaware as combat begins. *[Conditions and States](22-conditions-and-states.md)*
+- **Tag** — A keyword on a weapon, attack, or spell that changes how it behaves; all tags are listed in one place. *[Appendix A · Tags](a1-tags.md)*
+- **Tandem partner** — A character with whom you share a mutual Bond 3 or higher. *[Bonds in Combat](25-bonds-in-combat.md)*
+- **Tandem Strike, Tandem Defense, Tandem Advance** — The three Tandem Maneuvers: act out of turn alongside your tandem partner. *[Bonds in Combat](25-bonds-in-combat.md)*
+- **Telegraphed attack** — An enemy signature declared a turn ahead, giving the party time to answer. *[Building Encounters](30-building-encounters.md)*
+- **Thread** — A chapter of a character's past, written as a short phrase; the source of knowledge and narrative bonuses. *[Threads and Knowledge](09-threads-and-knowledge.md)*
+- **Tier of play** — The four bands of ranks: Novice, Seasoned, Veteran, Paragon. *[Merits and Tiers of Play](29-merits-and-tiers-of-play.md)*
+- **Touch** — The range step at which a spell is delivered as a melee attack. *[Spellcasting](24-spellcasting.md)*
+- **Turn order** — How sides alternate turns within a round. *[The Shape of a Fight](18-the-shape-of-a-fight.md)*
+- **Unarmed Attack** — The weapon every character always has equipped. *[Equipment](11-equipment.md)*
+- **Unraveling** — The death-track condition of the mind, gained on filling your last Burden slot. *[Conditions and States](22-conditions-and-states.md)*
+- **Use Consumable** — The maneuver that spends a consumable point. *[Maneuvers and Reactions](19-maneuvers-and-reactions.md)*
+- **Vigor** — The action currency, refreshed each turn and spent on maneuvers and reactions. *[Characters at a Glance](05-characters-at-a-glance.md)*
+- **Vitality** — The body track; at zero you take a Wound and it refills. *[Characters at a Glance](05-characters-at-a-glance.md)*
+- **Vulnerable** — A condition that gives the next attack roll against you extra dice. *[Conditions and States](22-conditions-and-states.md)*
+- **Weight class** — A weapon's size — Light, Medium, Heavy, Superheavy — which sets gear-slot cost and who can wield it. *[Equipment](11-equipment.md)*
+- **Wildcard slot** — A mastery slot that accepts any mastery type. *[Characters at a Glance](05-characters-at-a-glance.md)*
+- **Wondrous item** — A magical item equipped into a wondrous item slot. *[Equipment](11-equipment.md)*
+- **Wondrous item slot** — A derived stat: how many wondrous items you can equip. *[Characters at a Glance](05-characters-at-a-glance.md)*
+- **Wound** — Filled when Vitality reaches zero; each Wound rolls a consequence. *[Damage, Wounds, and Burdens](21-damage-wounds-and-burdens.md)*
+- **Wracked** — A condition that deals typed damage at the end of each of your turns. *[Conditions and States](22-conditions-and-states.md)*
+- **Zero-dice rule** — What happens when a pool would be zero dice: roll two and keep the lowest. *[Rolling Dice](03-rolling-dice.md)*
