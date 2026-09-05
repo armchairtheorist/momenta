@@ -10,7 +10,7 @@ language = "en"
 src = "."
 
 [output.html]
-site-url = "/momenta/"
+site-url = "/"
 additional-css = ["site/momenta.css"]
 git-repository-url = "https://github.com/armchairtheorist/momenta"
 edit-url-template = "https://github.com/armchairtheorist/momenta/edit/main/{path}"
